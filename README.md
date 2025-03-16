@@ -1,17 +1,26 @@
->`Hey,Ygor here, 
+🏄🏽 🏂🏿 🧑🏾‍💻
+>`Hey,Ygor here,
 I help the government of Brazil build incredible applications that have a direct impact on society @DATAPREV.`
 
 > And I think deeply about the social and psychological effects caused by this intense tech life we humans live these days.
 >
 > And i Live this VERY intensely to the last bit!
+>
+> Being a federal public worker the projects I built can´t be displayed, but **trust me they are F*in good :)**
 
 I`m a master at being average in the stacks I use, but rn I'm working fullstack using:
- - Java SpringBoot and all that comes with it ⭐⭐⭐
+ - Java SpringBoot⭐⭐⭐ `and all that comes with it`
  - Typescript ⭐⭐⭐⭐⭐
  - React  ⭐⭐⭐⭐⭐
  - Next.js ⭐⭐⭐⭐⭐
  - Nest.js ⭐⭐⭐
- - Python,⭐⭐⭐`I made some scripts for stress testing and populating our API service that will display professional coures available for brazilians in the entire country, we are expected to receive about 16 milion request per year`
+ - Python,⭐⭐⭐
+
+   >*"When you program a computer, there is a little piece of your mind and now it's a little piece of the computer's mind"*
+   >
+   >Quote from a sixth-grade student. From my favorite book:
+   >
+   >**The second Self** by Sherry Turkle
 
 <!---
 --->
